@@ -10,7 +10,7 @@
         position:static;
     }
     .box8 {
-        flex-wrap:wrap;
+        margin-bottom: 20px;
     }
     .box8 .divup{
         /* display:block; */
