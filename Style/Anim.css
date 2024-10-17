@@ -1,0 +1,67 @@
+.box5 .below .href1:hover{
+    .img1{
+        height: 340px;
+        width:280px;
+       
+        transform: rotate(40deg);
+        transition-duration: .5s;
+    }
+}
+.box5 .below .href2:hover{
+    .img2{
+        height: 340px;
+        width:280px;
+    
+        transform: rotate(40deg);
+        transition-duration: .5s;
+    }
+}
+.box5 .below .href3:hover{
+    .img3{
+        height: 340px;
+        width:280px;
+      
+        transform: rotate(40deg);
+        transition-duration: .5s;
+    }
+}
+.box5 .below .href4:hover{
+    .img4{
+        height: 340px;
+        width:280px;
+    
+        transform: rotate(40deg);
+        transition-duration: .5s;
+    }
+}
+.box5 .below .href5:hover{
+    .img5{
+        height: 340px;
+        width:280px;
+        transform: rotate(40deg);
+        transition-duration: .5s;
+    }
+}
+
+.img1, .img2, .img3, .img4, .img5{
+    transition: all 0.5s ease;
+}
+
+
+
+
+
+
+
+/* .animbox{
+    height:300px;
+    width:300px;
+}
+
+.animbox:hover{
+    background-color: red;
+    animation-name: rotate;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-fill-mode: forwards;
+}*/
